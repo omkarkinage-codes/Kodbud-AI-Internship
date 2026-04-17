@@ -4,6 +4,11 @@
 ## Description
 A Computer Vision application that detects human faces in images (supporting .webp format) and draws bounding boxes around them. 
 
+🔗 Quick Access
+Note: If the .ipynb file below does not load on GitHub, please use the Mirror Link to view the full project with results:
+
+👉 View Project with Rendered Results (https://htmlpreview.github.io/?https://github.com/omkarkinage-codes/Kodbud-AI-Internship/blob/main/Task-2-Face-Detection/Face_Detection%20(1).html)
+
 ## How it Works
 1. **Grayscale Conversion:** Images are converted to grayscale to improve detection speed and accuracy.
 2. **Haar Cascade Classifier:** Uses a pre-trained model to identify facial features. 
