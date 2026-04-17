@@ -4,7 +4,7 @@
 ## Description
 A Computer Vision application that detects human faces in images (supporting .webp format) and draws bounding boxes around them. 
 
-# Quick Access
+## Quick Access
 Note:
 If the .ipynb file below does not load on GitHub, please use the Mirror Link to view the full project with results:
 
