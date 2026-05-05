@@ -1,5 +1,5 @@
 
-# Task 3: Stock Price Prediction
+# Task 4: Stock Price Prediction
 
 ## 📌 Description
 This project implements a **Linear Regression** model to predict future stock/index prices based on historical trends. It utilizes the `yfinance` API to fetch real-time market data and performs time-series forecasting.
